@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Grap3fruit-Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 24 Oct 2020 10:09:53 GMT</lastBuildDate><item><title><![CDATA[안녕하세요]]></title><description><![CDATA[첫 블로그 게시글 테스트]]></description><link>https://gatsby-starter-blog-demo.netlify.app/first-post/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/first-post/</guid><pubDate>Sat, 24 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;첫 블로그 게시글 테스트&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Grap3fruit-Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 24 Oct 2020 12:18:17 GMT</lastBuildDate><item><title><![CDATA[안녕하세요]]></title><description><![CDATA[첫 블로그 게시글 테스트]]></description><link>https://gatsby-starter-blog-demo.netlify.app/first-post/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/first-post/</guid><pubDate>Sat, 24 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;첫 블로그 게시글 테스트&lt;/p&gt;</content:encoded></item><item><title><![CDATA[TIL-20201024]]></title><description><![CDATA[에러. 원인 못찾았다. 배포때 gh-pages -d public에서 -d 명령어는 뭐지? 디렉토리. public일때는 root에 만드는것 같다? docs로 어떻게 배포해주지? grap3fruit.github.io/reponame…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/TIL-20201024/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/TIL-20201024/</guid><pubDate>Sat, 24 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;requires a peer of gatsby&lt;/code&gt; 에러. 원인 못찾았다.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;배포때 gh-pages -d public에서 -d 명령어는 뭐지?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;디렉토리. public일때는 root에 만드는것 같다?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;docs로 어떻게 배포해주지?&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;http://grap3fruit.github.io&quot;&gt;grap3fruit.github.io&lt;/a&gt;/reponame &amp;#x3C;&amp;#x3C; 여기 reponame 어떻게 없애주지?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;gatsby build 뒤에 pathPrefix를 없애주면 사라진다.&lt;/li&gt;
+&lt;li&gt;pathPrefix의 역할이 뭘까? 왜 쓰지?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;netlify로 배포하기&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://heropy.blog/2018/01/10/netlify/&quot;&gt;https://heropy.blog/2018/01/10/netlify/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github pages는 netlify 처럼 배포해줄때 도움주는 서비스.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsby-starter-blog-demo.netlify.app/new-beginnings/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
