@@ -14,4 +14,4 @@
 
 ### 블로그 개발 환경 참조
 
-- https://velog.io/@hamon/Gatsby1%EA%B9%83%ED%97%99-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
+- https://velog.io/@hamon/Gatsby1깃헙-블로그-시작하기
