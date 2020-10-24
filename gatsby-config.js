@@ -3,7 +3,7 @@ module.exports = {
     title: `Grap3fruit-Blog`,
     author: {
       name: `SoonWon Kwon`,
-      summary: `who lives in earth.`,
+      summary: `who lives in the earth.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
