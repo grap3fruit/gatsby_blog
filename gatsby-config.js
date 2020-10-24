@@ -5,7 +5,7 @@ module.exports = {
       name: `SoonWon Kwon`,
       // summary: `who lives in the earth.`,
     },
-    // description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://grap3fruit.netlify.app/`,
     social: {
       github: `grap3fruit`,
