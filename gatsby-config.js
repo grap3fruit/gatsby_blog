@@ -8,7 +8,7 @@ module.exports = {
     // description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://grap3fruit.netlify.app/`,
     social: {
-      // facebook: `kylemathews`,
+      github: `grap3fruit`,
     },
   },
   plugins: [
