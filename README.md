@@ -10,7 +10,7 @@
 
 1. `gatsby-starter-blog`로 생성
    - 추후 커스터마이징 해볼것 (리액트 배워서 써먹자..)
-2. `Netlify`로 배포
+2. `github pages 활용해 배포`
 
 ---
 
