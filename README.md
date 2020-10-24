@@ -12,6 +12,8 @@
    - 추후 커스터마이징 해볼것 (리액트 배워서 써먹자..)
 2. `Netlify`로 배포
 
+---
+
 ### Refrence
 
 - https://velog.io/@hamon/Gatsby1깃헙-블로그-시작하기
