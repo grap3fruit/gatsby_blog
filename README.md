@@ -13,6 +13,7 @@
 2. `github pages 활용해 배포`
 3. `netlify 활용해 배포`
    - 일단 써 본다.
+   - https://grap3fruit.github.io/ , https://grap3fruit.netlify.app/ 두 주소에서 모두 접근가능
 
 ---
 
