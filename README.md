@@ -1,5 +1,10 @@
 # grap3fruit의 블로그 저장소
 
+https://grap3fruit.github.io/  
+https://grap3fruit.netlify.app/
+
+---
+
 ## 목적
 
 1. TIL
@@ -13,7 +18,7 @@
 2. `github pages 활용해 배포`
 3. `netlify 활용해 배포`
    - 일단 써 본다.
-   - https://grap3fruit.github.io/ , https://grap3fruit.netlify.app/ 두 주소에서 모두 접근가능
+   - 상단 두 주소에서 모두 접근가능
 
 ---
 
