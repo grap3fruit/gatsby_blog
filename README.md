@@ -1,8 +1,9 @@
 # grap3fruit의 블로그 저장소
 
-https://grap3fruit.github.io/  
-https://grap3fruit.netlify.app/
+~https://grap3fruit.github.io/~  
+~https://grap3fruit.netlify.app/~
 
+기존 블로그 목적으로 생성되었으나, docusaurus로 옮겼습니다.
 ---
 
 ## 목적
